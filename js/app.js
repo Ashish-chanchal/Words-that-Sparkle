@@ -94,7 +94,6 @@ Shayarbtn.addEventListener('click', () => {
     quote = false
     jokes = false;
     shyari = true;
-    caption = false;
     url = "https://api.quotable.io/random?tags=love";
     //7e8a5b8bc8cd46bf9e25a7f5618f
     anothershyari(url);
